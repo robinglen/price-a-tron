@@ -1,0 +1,16 @@
+{
+  "name": "price-a-tron",
+  "version": "1.0.0",
+  "description": "Something that shows prices of stuff",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "author": "Robin Glen",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
